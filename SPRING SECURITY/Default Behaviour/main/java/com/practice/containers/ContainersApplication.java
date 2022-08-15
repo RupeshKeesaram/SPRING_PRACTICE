@@ -17,6 +17,10 @@ public class ContainersApplication {
 
 //		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(ProjectConfig.class);
 
+// 		The default name & passwords can be modified just by changing the properties file
+//              spring.security.user.name = Rupesh
+//              spring.security.user.password = 1234
+	
 	}
 
 }
